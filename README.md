@@ -1,6 +1,6 @@
 # Music-Player
 
-It is GUI based application built using TKinter (Python) with some of the other libraries. It contains some
+It is GUI based application built using TKinter (Python) and other Python libraries. It contains some
 basic features of a music app like add or delete a song, play, pause, next and previous song. Most of these
 things were done using TKinter widgets but I had to use mutagen library to play the song and time library to
 show the progress of the song and even time it.
